@@ -99,5 +99,4 @@ Run the notebooks from inside the `notebooks/` folder (they use relative paths).
 Cleaning took more effort than the analysis: almost every numeric column was text, and duplicate products would have inflated the category numbers. I also learned why averages need a minimum number of products or ratings behind them before they mean anything.
 
 ## Author
-Amit Negi, BSc Physical Science with Computer Science, University of Delhi
-GitHub: [add your profile link here]
+Amit Negi
